@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_cost,unit_price
+PROD-001,Headphones,Electronics,726.9,946.8
+PROD-002,Smartwatch,Electronics,4925.13,6366.68
+PROD-003,Bluetooth Speaker,Electronics,2308.88,3836.2
+PROD-004,Power Bank,Electronics,4454.6,6509.82
+PROD-005,Laptop Stand,Electronics,7957.83,12691.64
+PROD-006,Office Chair,Furniture,3711.67,6100.23
+PROD-007,Study Table,Furniture,928.55,1584.25
+PROD-008,Bookshelf,Furniture,6844.42,11451.37
+PROD-009,Bed Frame,Furniture,6186.36,10631.54
+PROD-010,Sofa,Furniture,1837.93,2836.86
+PROD-011,Notebook Pack,Office Supplies,1943.67,2857.79
+PROD-012,Pen Set,Office Supplies,3709.97,5640.61
+PROD-013,Stapler,Office Supplies,896.42,1369.19
+PROD-014,Sticky Notes,Office Supplies,5371.1,8020.64
+PROD-015,File Organizer,Office Supplies,1348.22,2494.13
+PROD-016,T-Shirt,Clothing,677.0,1212.27
+PROD-017,Jeans,Clothing,881.86,1157.68
+PROD-018,Jacket,Clothing,5949.55,10576.22
+PROD-019,Sneakers,Clothing,4517.51,7368.97
+PROD-020,Cap,Clothing,4558.45,6674.8
+PROD-021,Mixer Grinder,Home & Kitchen,1109.52,1641.91
+PROD-022,Non-stick Pan,Home & Kitchen,5372.92,9336.44
+PROD-023,Water Bottle,Home & Kitchen,6964.52,11969.85
+PROD-024,LED Lamp,Home & Kitchen,7751.93,12715.23
+PROD-025,Storage Box,Home & Kitchen,2910.42,4731.32
